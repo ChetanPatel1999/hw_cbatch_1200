@@ -7,4 +7,4 @@ void main()
     scanf("%f", &gram); // 1.5
     kg = gram / 1000;
     printf("weight in kg = %.1f", kg);
-}
+}                
