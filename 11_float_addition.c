@@ -12,5 +12,4 @@ void main()
 	printf("value of b = %.1f\n",b);
 	c=a+b;
 	printf("addition = %.1f\n",c);
-	printf("sum of %.1f and %.1f = %.1f",a,b,c);
 }
