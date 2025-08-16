@@ -5,7 +5,7 @@ void main()
     i = 1;
     while (i <= 10)
     {
-        printf("%d\n", 7 * i);
-        i++;
+        printf("%d ", 7 * i); // 7 14 21 28..70
+        i++;                       // 4
     }
 }

@@ -7,6 +7,6 @@ void main()
     while (i <= 25)
     {
         printf("%d\n", i);
-        i++;
+        i++;//15
     }
 }
